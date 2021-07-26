@@ -1,0 +1,17 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+
+i .fas.fa-search{
+    margin-left: 3px;
+}
+i input.form-control {
+    background: transparent;
+    border: 0;
+}
+i input.form-control:focus{
+    background-color: transparent;
+    box-shadow: none;
+}
